@@ -1,3 +1,5 @@
+# Created By: EH
+
 def check_corners(board):
 
     if board[0][0] == board[1][1] and board[1][1] == board[2][2] and board[0][0] != " ":
